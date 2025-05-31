@@ -29,5 +29,9 @@ A sleek, responsive calculator built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## 📂 File Structure
+## 🔧 How to Run
+
+1. Clone the repo or download the files:
+   ```bash
+   git clone https://github.com/glennnoronha/calculator-javascript.git
 
