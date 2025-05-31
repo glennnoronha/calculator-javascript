@@ -6,7 +6,7 @@ A sleek, responsive calculator built using **HTML**, **CSS**, and **JavaScript**
 
 ## 📸 Preview
 
-![Calculator Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="Calculator Screenshot" width="400"/>
 
 ---
 
