@@ -2,6 +2,8 @@
 
 A sleek, responsive calculator built using **HTML**, **CSS**, and **JavaScript**. Designed to adapt smoothly to all screen sizes with a clean UI, circular buttons, and dynamic grid layout. The app handles basic arithmetic operations and includes a wide `=` button for a polished touch.
 
+You can visit the app here: https://glennnoronha.github.io/calculator-javascript/
+
 ---
 
 ## 📸 Preview
